@@ -1,0 +1,5 @@
+websockets>=14
+anthropic>=1
+faster-whisper>=1.1
+edge-tts>=7
+numpy
